@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-📍 Based in **Katni, Madhya Pradesh, India**  
+📍 Based in **Indore, Madhya Pradesh, India**  
 💻 **Full-Stack JavaScript Developer** with a strong focus on the **MERN stack** — MongoDB · Express.js · React.js · Node.js  
 🎯 Deep understanding of **Object-Oriented Programming (OOP)**,  
 🎨 Passionate about building **scalable web applications**, crafting **design systems**, and developing **reusable UI component libraries** for seamless user experiences.    
@@ -24,10 +24,10 @@
 
 <p align="center">
   <a href="
-https://www.linkedin.com/in/amann018?
+https://www.linkedin.com/in/amann018?> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://jagmohan123.github.io/New-PortFolio/>
+  <a href="https://amannnn18.github.io/New-PortFolio/>
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:amanc3522@gmail.com">
@@ -42,18 +42,11 @@ https://www.linkedin.com/in/amann018?
 
 ## 🧰 Tech Toolbox
 
-### 🏗️ Core Computer Science
-<p>
-  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming%20(OOP)-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database%20Management%20Systems%20(DBMS)-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms%20(DSA)-green?style=for-the-badge" />
-</p>
+
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+ 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
