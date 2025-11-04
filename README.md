@@ -24,10 +24,10 @@
 
 <p align="center">
   <a href="
-https://www.linkedin.com/in/amann018?> 
+https://www.linkedin.com/in/amann018? /> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Amannnn18>
+  <a href="https://github.com/Amannnn18 />
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:amanc3522@gmail.com">
